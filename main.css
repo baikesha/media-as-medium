@@ -1,0 +1,232 @@
+body {
+    background: #F1F1F1;
+    padding: 0;
+    margin: 0;
+    /* padding: 0px; */
+}
+
+body01 {
+    background: #F1F1F1;
+    padding: 0;
+    margin: 0;
+}
+
+.navbar {
+    margin-top: 24px;
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height, or 122% */
+    text-transform: lowercase;
+    color: #000000;
+}
+
+.navbar01 {
+    margin-top: 24px;
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height, or 122% */
+    text-transform: lowercase;
+    color: #000000;
+}
+
+.wrapper {
+    margin-left: 160px;
+    margin-right: 160px;
+}
+
+.wrapper01 {
+    margin-left: 160px;
+    margin-right: 160px;
+}
+
+.title {
+    font-style: normal;
+    font-weight: 500;
+    margin-top: 88px;
+    margin-bottom: 64px;
+    font-family: 'Kanit';
+    font-size: 48px;
+    line-height: 120px;
+/* identical to box height, or 250% */
+    color: #000000;
+}
+
+.article {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    font-family: 'Inter';
+    color: #000000;
+    width: 1120px;
+    margin-bottom: 48px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+/* width: 755px; */
+
+.Title01 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-grow: 1;
+    font-style: medium;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 4px;
+    margin-bottom: 51px;
+}
+
+.Title02 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+    margin-bottom: 24px;
+}
+
+.Title03 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    width: 693px;
+    margin-bottom: 70px;
+}
+
+.Title04 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+    font-size: 14px;
+    margin-bottom: 36px;
+    
+}
+
+.img {
+    border-radius: 4px;
+    margin-left: 150px;
+}
+
+.Button {
+    background: linear-gradient(0deg, rgba(8, 30, 52, 0.12), rgba(8, 30, 52, 0.12)), #FFFBFE;
+    border-radius: 100px;
+    padding: 6px 16px;
+    margin-right: 8px;
+}
+
+.time {
+    margin-right: 8px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+/* identical to box height, or 129% */
+    color: #000000;
+    opacity: 0.5;
+}
+
+.select {
+    margin-left: 8px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+/* identical to box height, or 129% */
+    color: #000000;
+    opacity: 0.5;
+}
+
+.smallImg {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+}
+
+.pages {
+    margin-top: 318px;
+}
+
+иконкиии
+.Block00 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content:flex-end;
+}
+
+.Block0 {
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+   
+}
+
+.Block1 {
+    display: flex;
+    flex-direction: row;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    opacity: 0.5
+}
+
+.Block2 {
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 38px;
+}
+
+.Block3 {
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+}
+
+.Block4 {
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+}
+
+.Block5 {
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+}
+
+.Block6 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Block7 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 111px;
+
+}
